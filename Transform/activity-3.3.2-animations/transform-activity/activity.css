@@ -1,0 +1,9 @@
+main {
+  background-color: mediumaquamarine;
+  height: 90vh;
+  width: 100%;
+  margin: auto;
+  transform: skewX(-10deg) rotate(-10deg);
+  display: flex;
+  align-items: center;
+}
